@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# bash script to make a pendrive bootable without fancy software 
+
 lsblk
 
 echo "Enter disk name (eg: sda, sdb)"
