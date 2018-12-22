@@ -6,6 +6,6 @@ A collection of boring bash scripts.
 
 **Description :** As the name sounds, the script can make a USB bootable on input of an ISO file.
 
-**Commands Used :** lsblk, dd
+**Commands Used :** lsblk, umount, dd
 
 
