@@ -1,11 +1,15 @@
-# BashedPotatoes
+# BashedPotatoes  :fork_and_knife:
 
 A collection of boring bash scripts.
 
-## 1 - bootable.sh 
 
-**Description :** As the name sounds, the script can make a USB bootable on input of an ISO file.
+## bootable.sh 
+
+### Description : Makes a USB bootable on input of an ISO file.
 
 **Commands Used :** lsblk, umount, dd
+
+
+
 
 
