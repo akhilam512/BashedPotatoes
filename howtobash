@@ -1,0 +1,6 @@
+1) create your bash file with shebang
+2) ensure output
+3) sudo chmod +x yourbash.sh
+4) place it in /bin (export path if you haven't in .bashrc: export PATH=~/bin/:$PATH)
+5) mv yourbash.sh yourbash
+6) pray it works
