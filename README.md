@@ -1,6 +1,6 @@
 # BashedPotatoes  :fork_and_knife:
 
-A collection of boring bash scripts.
+A collection of useful, boring bash scripts I use on a regular basis. 
 
 
 ## bootable.sh 
@@ -10,6 +10,10 @@ A collection of boring bash scripts.
 **Commands Used :** lsblk, umount, dd
 
 
+## fs.sh
 
+### Desription : Finds files from input of text. 
+
+**Commands Used :** find, grep
 
 
