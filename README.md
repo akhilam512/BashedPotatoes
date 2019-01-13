@@ -1,6 +1,6 @@
 # BashedPotatoes  :fork_and_knife:
 
-A collection of useful, boring bash scripts I use on a regular basis. 
+A collection of useful, boring bash scripts I use on a regular basis. Instructions to use in [HowtoBash](/howtobash)
 
 
 ## bootable.sh 
@@ -9,15 +9,20 @@ A collection of useful, boring bash scripts I use on a regular basis.
 
 **Commands Used :** lsblk, umount, dd
 
+--------------------------------------------------------------
 
 ## fs.sh
 
-### Desription : Finds files from input of text. 
+### Description : Finds files from input of text. 
 
 **Commands Used :** find, grep
+
+--------------------------------------------------------------
 
 ## motiv.sh
 
 ### Description : Handy motivator, prints random motivational words
 
 **Commands Used :** figlet 
+
+--------------------------------------------------------------
