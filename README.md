@@ -16,4 +16,8 @@ A collection of useful, boring bash scripts I use on a regular basis.
 
 **Commands Used :** find, grep
 
+## motiv.sh
 
+### Description : Handy motivator, prints random motivational words
+
+**Commands Used :** figlet 
