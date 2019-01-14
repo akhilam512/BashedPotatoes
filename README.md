@@ -25,4 +25,6 @@ A collection of useful, boring bash scripts I use on a regular basis. Instructio
 
 **Commands Used :** figlet 
 
+![](/motiv.png)
+
 --------------------------------------------------------------
