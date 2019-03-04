@@ -3,7 +3,7 @@
 A collection of useful, boring bash scripts I use on a regular basis. Instructions to use in [HowtoBash](/howtobash)
 
 
-## bootable.sh 
+## bootable
 
 ### Description : Makes a USB bootable on input of an ISO file.
 
@@ -11,7 +11,7 @@ A collection of useful, boring bash scripts I use on a regular basis. Instructio
 
 --------------------------------------------------------------
 
-## fs.sh
+## fs
 
 ### Description : Finds files from input of text. 
 
@@ -19,7 +19,7 @@ A collection of useful, boring bash scripts I use on a regular basis. Instructio
 
 --------------------------------------------------------------
 
-## motiv.sh
+## motiv
 
 ### Description : Handy motivator, prints random motivational words
 
