@@ -1,5 +1,4 @@
 1) place file in /bin
-2) sudo chmod +x file.sh
-3) mv file.sh file
+2) sudo chmod +x file
 4) append this line to your ~/.bashrc : export PATH=~/bin/:$PATH
-5) try running, type in command line: file 
+5) try running in a new terminal: file 
