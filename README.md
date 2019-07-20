@@ -28,3 +28,13 @@ A collection of useful, boring bash scripts I use on a regular basis. Instructio
 ![](/motiv.png)
 
 --------------------------------------------------------------
+
+## run_audio
+
+### Description : Runs music whenever headphones are plugged in
+
+**Commands Used :** acpi_listen, cvlc, kill 
+
+![](/motiv.png)
+
+--------------------------------------------------------------
