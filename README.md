@@ -31,7 +31,7 @@ A collection of useful, boring bash scripts I use on a regular basis. Instructio
 
 ## run_audio
 
-### Description : Runs music whenever headphones are plugged in
+### Description : Plays music whenever headphones are plugged in
 
 **Commands Used :** acpi_listen, cvlc, kill 
 
